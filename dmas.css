@@ -1,0 +1,10 @@
+﻿body {
+    background-color: whitesmoke;
+}
+#btnAdd, #btnSub, #btnMultiply, #btnDivide{
+    width: 100px;
+    margin: 10px;
+}
+input, span{
+    margin: 10px;
+}

@@ -1,0 +1,65 @@
+﻿body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#head{
+    background-color: whitesmoke;
+    padding: 0;
+    margin: auto;
+}
+h1{
+    background-color: whitesmoke;
+    padding: 5px;
+}
+#selector{
+    border: 1px solid black;
+    margin: 20px;
+    height: 30px;
+    display: flex;
+    align-content: center;
+    border-radius: 5px;
+}
+#lblAssessment{
+    width: 20%;
+    background-color: lightgrey;
+    padding: 3px;
+    border-start-start-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+#ddlGender{
+    width: 40%;
+}
+#ddlMaritalStatus{
+    width: 40%;
+}
+#btnCalculate{
+    float: right;
+    margin-right: 50px;
+    background-color: green;
+    border: none;
+    height: 30px;
+    color: white;
+    border-radius: 5px;
+}
+#btnClear{
+    margin-left: 50px;
+    background-color: aqua;
+    border: none;
+    height: 30px;
+    color: white;
+    border-radius: 5px;
+}
+#amt{
+    margin: 50px;
+}
+input{
+    height:30px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+#txtSalary{
+    margin-left: 160px;
+}
+#txtAnnual{
+    margin-left: 130px;
+}

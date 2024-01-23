@@ -1,0 +1,33 @@
+﻿body {
+    background-color: darkviolet;
+}
+.container{
+    margin: auto;
+    background-color: whitesmoke;
+    width: 300px;
+    align-content: center;
+    padding: 10px;
+}
+h2{
+    text-align: center;
+    font-family: 'Arial Rounded MT';
+}
+p, span{
+    color: grey;
+    font-family: Arial;
+    font-size: small;
+    margin: 10px;
+}
+input{
+    width: 90%;
+    height: 35px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+#btnCalculate {
+    background-color: #34013f;
+    color: white;
+    margin: 10px;
+}

@@ -1,0 +1,67 @@
+﻿body {
+    background-color: cyan;
+}
+span{
+    margin: 5px;
+}
+#container{
+    margin: auto;
+    width: 700px;
+    padding: 20px;
+    border: 1px solid black;
+}
+#contain{
+    border: 1px solid black;
+    outline: 1px solid black;
+    outline-offset: 5px;
+    text-align: center;
+    width: 97%;
+    margin:10px;
+}
+input{
+    margin: 10px;
+}
+#txtName, #txtEmail {
+    margin-left: 100px;
+    width: 250px;
+}
+#txtFather {
+    margin-left: 46px;
+    width: 250px;
+}
+#txtMother {
+    margin-left: 40px;
+    width: 250px;
+}
+#txtPhone {
+    margin-left: 99px;
+    width: 250px;
+}
+#rbMale{
+    margin-left: 75px;
+}
+#txtDay{
+    width: 50px;
+    margin-left: 50px;
+}
+#txtMonth{
+    width: 50px;
+}
+#txtYear{
+    width: 75px;
+}
+#txtAddress{
+    margin-left: 81px;
+}
+#ddlBlood{
+    margin-left: 48px;
+}
+#rbCSE{
+    margin-left: 40px;
+}
+#liC{
+    margin-left: 70px;
+}
+#fuImage{
+    margin-left: 95px;
+}
